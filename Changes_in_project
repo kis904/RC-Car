@@ -1,0 +1,17 @@
+These are changes or more documentation, explaining how my 
+project would work.
+
+IMPORTANT CHANGES IN CART
+I mistakenly wrote 3 18650 Li-ion batteries to my shopping list,
+although I have them so I won't need to buy any, as you can see
+in the screenshot of my final cart.
+
+FURTHER DETAILS OF THE PROJECT
+I was in a hurry, when I tried to summarize my work and wrote
+the journal and shipped. Here as I can't add anything in Macondo
+I want to add some details that I thought of but forgot to write
+in the journals and will may help you understand even more my plan
+
+First, the 2 esp32 would communicate with the help of esp32_now 
+protocol that enables low-delay communication with just a few lines
+of code.
